@@ -13,5 +13,13 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jiro-sains/javascript.git"
+  },
+  "bugs": {
+    "url": "https://github.com/jiro-sains/javascript/issues"
+  },
+  "homepage": "https://github.com/jiro-sains/javascript#readme",
   "description": ""
 }
